@@ -1,0 +1,19 @@
+{
+  "name": "vector-ui-pack",
+  "version": "1.2.4",
+  "description": "Pre-compiled high-performance binary vector UI glyphs and sprite atlas for canvas/webgl engines",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "canvas",
+    "webgl",
+    "vector-icons",
+    "ui-kit",
+    "binary-assets",
+    "atlas"
+  ],
+  "author": "open-source",
+  "license": "MIT"
+}
